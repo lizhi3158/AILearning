@@ -2,13 +2,8 @@
 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-* **ApacheCN - 学习机器学习群【629470233】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef"><img border="0" src="/images/MainPage/ApacheCN-group.png" alt="ApacheCN - 学习机器学习群[629470233]" title="ApacheCN - 学习机器学习群[629470233]"></a>**
-* **Machine Learning in Action (机器学习实战) | [ApacheCN(apache中文网)](http://cwiki.apachecn.org/)**
 * 电子版书籍：[【机器学习实战-中文版-带目录版.pdf】](https://github.com/apachecn/MachineLearning/tree/master/books)  
 * -- 感谢 大佬 [Wizard Zhang](https://github.com/wizardforcel) 生成的电子书[《机器学习实战-ApacheCN.pdf》](https://github.com/apachecn/MachineLearning/blob/master/books/机器学习实战-ApacheCN.pdf)
-* **视频已更新完成，如果你觉得有价值，请帮忙点 Star【后续组织学习活动：sklearn、kaggle 和 tensorflow】**
-* -- 视频网站：优酷／bilibili / Acfun ，可直接在线播放。（最下方有相应链接）
-* -- 对于帮忙转发 [MachineLearning(机器学习) 学习路线图](http://www.apachecn.org/map/145.html) 的朋友，可以加群后私聊 瑶妹 企鹅 赠送《机器学习实战》百度云视频一套，谢谢
 
 ## 第一部分  分类
 
@@ -20,7 +15,7 @@
 * 6.) [支持向量机](./docs/6.支持向量机.md)
 * 7.) [集成方法-随机森林和AdaBoost](./docs/7.集成方法-随机森林和AdaBoost.md)
 
-## 第二部分  利用回归预测数值型数据
+## 第二部分  回归
 
 * 8.) [预测数值型数据：回归](./docs/8.预测数值型数据：回归.md)
 * 9.) [树回归](./docs/9.树回归.md)
